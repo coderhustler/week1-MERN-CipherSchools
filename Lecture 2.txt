@@ -1,0 +1,15 @@
+BASIC COMMANDS_2
+
+git log - Use git log to view commit history
+
+git branch - List all branches
+
+git branch my_new_branch - Create a new branch
+
+git branch -d my_old_branch - Delete a branch
+
+git merge feature_branch - Merge a branch into the current branch:
+
+git merge --no-ff feature_branch - Merge a branch with no fast-forward:
+
+git merge feature_branch -m "Merging feature_branch into main" - Merge with a commit message
