@@ -1,0 +1,7 @@
+BASIC COMMANDS_1
+
+Initialization - git init
+Connection - git remote add origin
+Adding - git add .
+Committing - git commit -m "commit message"
+Uploading - git push origin head
