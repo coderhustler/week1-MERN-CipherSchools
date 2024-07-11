@@ -1,4 +1,4 @@
-BASIC COMMANDS_2
+𝐆𝐈𝐓 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 - 𝐂𝐥𝐚𝐬𝐬 𝟐
 
 git log - Use git log to view commit history
 
