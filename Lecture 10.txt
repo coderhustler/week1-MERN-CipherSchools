@@ -1,0 +1,32 @@
+𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐂𝐒𝐒 - 𝐂𝐥𝐚𝐬𝐬 𝟏𝟎
+
+CSS : Cascading Stylesheet
+
+types:- 
+1. internal [syle TAG in Head]
+2. Inline [style inside particular tag]
+3. external [making other file and linking it with LIKN TAG]
+
+Syntax:
+
+ElementName{
+  properties : values;
+}
+
+.ClassName {}
+#ID{}
+
+INLINE:
+background-color : ColorName
+
+Internal Style:
+background-color: ColorName
+
+External: in different file and link it to HTML File
+
+background-color : ColorName
+
+Linking of CSS File
+<!-- <link rel="Styelsheet" href="_reference_"> -->
+
+PRIORITY of CSS: Inline>Internal>External (Important)
